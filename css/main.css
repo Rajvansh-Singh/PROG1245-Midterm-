@@ -1,0 +1,37 @@
+body{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    font-size: medium;
+    font-family: Calibri;
+    font-weight: 200;
+    font-style: italic;
+    font-display:var(-0.25em);
+    font-variant: small-caps;
+}
+#structural
+{
+    background-color:maroon;
+    background-color:blanchedalmond;
+    height: 70vh;
+}
+
+h1{
+    color:aqua;
+    font-size: medium;
+}
+h2{
+    color:blueviolet;
+    font-size: medium;
+} 
+section{
+    float:right;
+    height: 70vh;
+    clear:both;
+}
+header{
+    background-color:maroon;
+}
+footer{
+background-color:blanchedalmond;
+}
